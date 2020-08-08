@@ -1,0 +1,4 @@
+#Fri Aug 07 23:11:22 BRT 2020
+base.0=/home/dtncordova/Documents/cursos/NLW/NLW\#02/proffyMobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
