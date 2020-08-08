@@ -5,14 +5,14 @@
 
 <!-- VARS -->
 
-[license-badge]: https://img.shields.io/github/license/pmqueiroz/proffy?color=%238257E5
-[star-badge]: https://img.shields.io/github/stars/pmqueiroz/proffy?color=8257E5&logo=github
-[last-commit-badge]: https://img.shields.io/github/last-commit/pmqueiroz/proffy?color=%238257E5
+[license-badge]: https://img.shields.io/github/license/dionathanCordova/proffy?color=%238257E5
+[star-badge]: https://img.shields.io/github/stars/dionathanCordova/proffy?color=8257E5&logo=github
+[last-commit-badge]: https://img.shields.io/github/last-commit/dionathanCordova/proffy?color=%238257E5
 [netfly-badge]: https://img.shields.io/netlify/b4d3ee80-98f0-42d0-b3d0-13879c811a00?color=%238257E5
 [codacy-badge]: https://app.codacy.com/project/badge/Grade/b2d32fa731984f3e9c3eaa814861c9db
-[netfly-url]: https://pmqueiroz-proffy.netlify.app
-[license-url]: https://github.com/pmqueiroz/proffy/blob/master/LICENSE
-[issues-url]: https://github.com/pmqueiroz/proffy/issues/
+[netfly-url]: https://dionathanCordova-proffy.netlify.app
+[license-url]: https://github.com/dionathanCordova/proffy/blob/master/LICENSE
+[issues-url]: https://github.com/dionathanCordova/proffy/issues/
 [node-url]: https://nodejs.org/en
 [yarn-url]: https://classic.yarnpkg.com/
 [npm-url]:  https://www.npmjs.com/
@@ -67,7 +67,7 @@
 
 ```ps
 # Clone the repository using git
-$ git clone https://github.com/pmqueiroz/proffy.git
+$ git clone https://github.com/dionathanCordova/proffy.git
 # Access the project folder
 $ cd proffy
 ```
@@ -189,7 +189,7 @@ If you want do help with the code follow the steps bellow
 ```ps
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
-$ gh repo fork pmqueiroz/proffy
+$ gh repo fork dionathanCordova/proffy
 # Clone your fork
 $ git clone {your-fork-url}
 $ cd proffy
