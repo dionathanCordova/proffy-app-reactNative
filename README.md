@@ -5,14 +5,14 @@
 
 <!-- VARS -->
 
-[license-badge]: https://img.shields.io/github/license/dionathanCordova/proffy?color=%238257E5
-[star-badge]: https://img.shields.io/github/stars/dionathanCordova/proffy?color=8257E5&logo=github
-[last-commit-badge]: https://img.shields.io/github/last-commit/dionathanCordova/proffy?color=%238257E5
+[license-badge]: https://img.shields.io/github/license/dionathanCordova/proffy-app-reactNative?color=%238257E5
+[star-badge]: https://img.shields.io/github/stars/dionathanCordova/proffy-app-reactNative?color=8257E5&logo=github
+[last-commit-badge]: https://img.shields.io/github/last-commit/dionathanCordova/proffy-app-reactNative?color=%238257E5
 [netfly-badge]: https://img.shields.io/netlify/b4d3ee80-98f0-42d0-b3d0-13879c811a00?color=%238257E5
 [codacy-badge]: https://app.codacy.com/project/badge/Grade/b2d32fa731984f3e9c3eaa814861c9db
-[netfly-url]: https://dionathanCordova-proffy.netlify.app
-[license-url]: https://github.com/dionathanCordova/proffy/blob/master/LICENSE
-[issues-url]: https://github.com/dionathanCordova/proffy/issues/
+[netfly-url]: https://dionathanCordova-proffy-app-reactNative.netlify.app
+[license-url]: https://github.com/dionathanCordova/proffy-app-reactNative/blob/master/LICENSE
+[issues-url]: https://github.com/dionathanCordova/proffy-app-reactNative/issues/
 [node-url]: https://nodejs.org/en
 [yarn-url]: https://classic.yarnpkg.com/
 [npm-url]:  https://www.npmjs.com/
