@@ -128,12 +128,12 @@ This projects use third party dependecies and fonts that need to be installed in
 ```ps
 $ cd mobile
 # Installing all fonts used
-<!-- $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins -->
 # Installing all dependencies required
 $ yarn install
 ```
+<!-- $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins -->
 >The above command will install all third party dependencies and fonts used. If you want to install manually all dependencies and fonts used. follow the steps bellow
-```ps
+<!-- ```ps -->
 <!-- # Installing fonts used -->
 <!-- $ expo install expo-font @expo-google-fonts/archivo -->
 <!-- $ expo install expo-font @expo-google-fonts/poppins -->
@@ -142,7 +142,7 @@ $ yarn install
 <!-- $ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view -->
 <!-- $ yarn add @react-navigation/stack -->
 <!-- $ yarn add @react-navigation/bottom-tabs -->
-```
+<!-- ``` -->
 
 #### Running
 
