@@ -67,15 +67,14 @@
 
 ```ps
 # Clone the repository using git
-$ git clone https://github.com/dionathanCordova/proffy.git
+$ git clone https://github.com/dionathanCordova/proffy-app-reactNative
 # Access the project folder
-$ cd proffy
+$ cd proffy-app-reactNative
 ```
 
 #### Requirements
 * [Node.js][node-url]
 * [Yarn][yarn-url] or [npm][npm-url]
-* [Expo][expo-url]
 
 ##### Web
 
@@ -129,20 +128,20 @@ This projects use third party dependecies and fonts that need to be installed in
 ```ps
 $ cd mobile
 # Installing all fonts used
-$ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
+<!-- $ expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins -->
 # Installing all dependencies required
 $ yarn install
 ```
 >The above command will install all third party dependencies and fonts used. If you want to install manually all dependencies and fonts used. follow the steps bellow
 ```ps
-# Installing fonts used
-$ expo install expo-font @expo-google-fonts/archivo
-$ expo install expo-font @expo-google-fonts/poppins
-# Installing dependecies required
-$ yarn add @react-navigation/native
-$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-$ yarn add @react-navigation/stack
-$ yarn add @react-navigation/bottom-tabs
+<!-- # Installing fonts used -->
+<!-- $ expo install expo-font @expo-google-fonts/archivo -->
+<!-- $ expo install expo-font @expo-google-fonts/poppins -->
+<!-- # Installing dependecies required -->
+<!-- $ yarn add @react-navigation/native -->
+<!-- $ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view -->
+<!-- $ yarn add @react-navigation/stack -->
+<!-- $ yarn add @react-navigation/bottom-tabs -->
 ```
 
 #### Running
@@ -189,10 +188,10 @@ If you want do help with the code follow the steps bellow
 ```ps
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
-$ gh repo fork dionathanCordova/proffy
+$ gh repo fork dionathanCordova/proffy-app-reactNative
 # Clone your fork
 $ git clone {your-fork-url}
-$ cd proffy
+$ cd proffy-app-reactNative
 # Create a branch with your feature
 $ git checkout -b {branch-name}
 # Make the commit with your changes
@@ -204,5 +203,5 @@ $ git push origin {branch-name}
 Then send a Pull Request that will be analyzed and approved if it helps with the project
 
 
-### License 📝
-This project is under the MIT license. See the [LICENSE][license-url] for more information.
+<!-- ### License 📝 -->
+<!-- This project is under the MIT license. See the [LICENSE][license-url] for more information. -->
